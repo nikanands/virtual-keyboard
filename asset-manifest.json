@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vboard/static/css/main.f5104d36.chunk.css",
-    "main.js": "/vboard/static/js/main.bce4cd66.chunk.js",
-    "main.js.map": "/vboard/static/js/main.bce4cd66.chunk.js.map",
-    "runtime~main.js": "/vboard/static/js/runtime~main.d505d153.js",
-    "runtime~main.js.map": "/vboard/static/js/runtime~main.d505d153.js.map",
-    "static/js/2.164617b5.chunk.js": "/vboard/static/js/2.164617b5.chunk.js",
-    "static/js/2.164617b5.chunk.js.map": "/vboard/static/js/2.164617b5.chunk.js.map",
-    "index.html": "/vboard/index.html",
-    "precache-manifest.bc3b9a712d4856fe28c01a22e0d6becc.js": "/vboard/precache-manifest.bc3b9a712d4856fe28c01a22e0d6becc.js",
-    "service-worker.js": "/vboard/service-worker.js",
-    "static/css/main.f5104d36.chunk.css.map": "/vboard/static/css/main.f5104d36.chunk.css.map"
+    "main.css": "/virtual-keyboard/static/css/main.f5104d36.chunk.css",
+    "main.js": "/virtual-keyboard/static/js/main.bce4cd66.chunk.js",
+    "main.js.map": "/virtual-keyboard/static/js/main.bce4cd66.chunk.js.map",
+    "runtime~main.js": "/virtual-keyboard/static/js/runtime~main.8bf50db0.js",
+    "runtime~main.js.map": "/virtual-keyboard/static/js/runtime~main.8bf50db0.js.map",
+    "static/js/2.164617b5.chunk.js": "/virtual-keyboard/static/js/2.164617b5.chunk.js",
+    "static/js/2.164617b5.chunk.js.map": "/virtual-keyboard/static/js/2.164617b5.chunk.js.map",
+    "index.html": "/virtual-keyboard/index.html",
+    "precache-manifest.f598a15bb27f12aebb005d7c28375486.js": "/virtual-keyboard/precache-manifest.f598a15bb27f12aebb005d7c28375486.js",
+    "service-worker.js": "/virtual-keyboard/service-worker.js",
+    "static/css/main.f5104d36.chunk.css.map": "/virtual-keyboard/static/css/main.f5104d36.chunk.css.map"
   }
 }
